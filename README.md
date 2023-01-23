@@ -1,6 +1,14 @@
 # ITG-Noteskins
 Noteskins I have created/edited for use in Stepmania 5 versions, Etterna and ITGmania.
 
+---------- Preview Videos ----------
+
+Bright and Night: https://www.youtube.com/watch?v=2DklaG-c5Gk
+
+DDR Bright and DDR Night: https://www.youtube.com/watch?v=61TlnwmJTZs
+
+DDR Cel and DDR Dev Cel: https://www.youtube.com/watch?v=YhgzJ3ghRvU
+
 ---------- Installation ----------
 
 The folder for each noteskin should be placed in your stepmania installation folder in the following directory: Your Stepmania Installation > Noteskins > Dance
