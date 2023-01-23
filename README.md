@@ -23,7 +23,7 @@ Active rolls (default color: gold)
 Hold/roll explosions (default color: white) 
 Mine center gradient (the pulsing color in the middle of the mine) (default color: red)
 
-There are preview images for the color customizations included in the download alongside the noteskin folders. They are alos viewable here.
+These are preview images for the color customizations.
 
 Holds (top)/Rolls (bottom)
 ![Hold + Roll Preview](https://user-images.githubusercontent.com/19560941/213955167-fee40a15-7a64-42b0-805e-64921942a592.png)
