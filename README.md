@@ -19,9 +19,9 @@ Night is also similarly saturated, but kind of a "night mode" version of Bright.
 
 Both Bright and Night have color customizations for the following:
 
-Active holds (default color white)
+Active holds (default color: white)
 Active rolls (default color: gold)
-Hold/roll explosions (default color: white) 
+Hold/roll explosions (default color: white)
 Mine center gradient (the pulsing color in the middle of the mine) (default color: red)
 
 These are preview images for the color customizations.
