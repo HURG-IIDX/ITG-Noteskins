@@ -13,7 +13,7 @@ DDR Cel and DDR Dev Cel: https://www.youtube.com/watch?v=YhgzJ3ghRvU
 
 The folder for each noteskin should be placed in your stepmania installation folder in the following directory: Your Stepmania Installation > Noteskins > Dance
 
-These "should" work with versions of Stepmania 5, Etterna as well as ITGmania (I personally use ITGmania, so if there happens to be a version this doesn't work with my apologies)
+These "should" work with versions of Stepmania 5, Outfox as well as ITGmania (I personally use ITGmania, so if there happens to be a version this doesn't work with my apologies)
 
 ---------- FA+ ----------
 
