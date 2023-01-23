@@ -9,7 +9,7 @@ These "should" work with versions of Stepmania 5, Etterna as well as ITGmania (I
 
 ---------- FA+ ----------
 
-All of these noteskins have an FA+ version. For these to work, you must have the original (non FA+) version installed in order for them to work. Any changes to the non FA+ version will also affect the FA+ version, with the exception of note timing explosions (the only difference between regular and FA+).
+All of these noteskins have an FA+ version. For these to work, you must have the original (non FA+) version installed. Any changes to the non FA+ version will also affect the FA+ version, with the exception of note timing explosions (the only difference between regular and FA+).
 
 ---------- Bright and Night ----------
 
