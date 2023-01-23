@@ -13,7 +13,7 @@ All of these noteskins have an FA+ version. For these to work, you must have the
 
 ---------- Bright and Night ----------
 
-Bright is an ITG style bright and color saturated noteskin. It is structured like Cel, but the border is a solid color, and there is no gap between the border and the center gradient. The center gradient is a 2 color gradient that consists of the border color, and a slightly brighter color.
+Bright is an ITG style bright and color saturated noteskin. It is structured like Cel, but the border is a solid color, and there is no gap between the border and the center gradient. The center gradient is a 2 colors that consists of the border color and a slightly brighter color.
 
 Night is also similarly saturated, but kind of a "night mode" version of Bright. The only visual difference from bright is the center gradient, which is still 2 colors, but the gradient consists of the border color and black.
 
