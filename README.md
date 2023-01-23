@@ -35,7 +35,7 @@ Hold/roll explosions (default color: white)
 
 Mine center gradient (the pulsing color in the middle of the mine) (default color: red)
 
-These are preview images for the color customizations.
+These are preview images for the color customizations:
 
 Active Holds
 ![Hold Preview](https://user-images.githubusercontent.com/19560941/213961248-85a5096e-1957-4028-9250-739cbb164015.png)
