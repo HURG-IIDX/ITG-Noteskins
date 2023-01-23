@@ -32,9 +32,8 @@ Hold/Roll Explosions
 ![Hold + Roll Explosion Preview](https://user-images.githubusercontent.com/19560941/213955203-7fd28a85-e4e0-4484-b67b-a2d1ccb22e35.png)
 
 Mine Centers
-![Mine Center Preview]
 
-(https://user-images.githubusercontent.com/19560941/213955230-55564dbe-42ff-455b-af7b-bfb47a14d432.png)
+![Mine Center Preview](https://user-images.githubusercontent.com/19560941/213955230-55564dbe-42ff-455b-af7b-bfb47a14d432.png)
 
 
 COLOR CUSTOMIZATION:  There is a .zip in the Noteskin's folder titled "Color Changes". In that folder you will find the various color customizations for the above listed aspects of the noteskin. There is an "All" folder where you can simply change the color of all customizable aspects at once if you want them to be the same color (there is also a "default" optin in the All folder if you wish to change everything back to stock). To use any of the color customizations, just drag the.png files out of the .zip into the noteskin's folder
