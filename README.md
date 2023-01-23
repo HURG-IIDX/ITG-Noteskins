@@ -32,7 +32,7 @@ Holds (top)/Rolls (bottom)
 Hold/Roll Explosions
 ![Hold + Roll Explosion Preview](https://user-images.githubusercontent.com/19560941/213955203-7fd28a85-e4e0-4484-b67b-a2d1ccb22e35.png)
 
-Mine Centers
+Mine + Center Gradients
 
 ![Mine Center Preview](https://user-images.githubusercontent.com/19560941/213955230-55564dbe-42ff-455b-af7b-bfb47a14d432.png)
 
