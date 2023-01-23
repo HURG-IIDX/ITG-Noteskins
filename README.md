@@ -29,8 +29,11 @@ Mine center gradient (the pulsing color in the middle of the mine) (default colo
 
 These are preview images for the color customizations.
 
-Active Holds (top)/Active Rolls (bottom)
-![Hold + Roll Preview](https://user-images.githubusercontent.com/19560941/213955167-fee40a15-7a64-42b0-805e-64921942a592.png)
+Active Holds
+![Hold Preview](https://user-images.githubusercontent.com/19560941/213961248-85a5096e-1957-4028-9250-739cbb164015.png)
+
+Active Rolls
+![Roll Preview](https://user-images.githubusercontent.com/19560941/213961261-d0527f9c-5a91-4a02-b006-1de89e280e64.png)
 
 Hold/Roll Explosions
 ![Hold + Roll Explosion Preview](https://user-images.githubusercontent.com/19560941/213955203-7fd28a85-e4e0-4484-b67b-a2d1ccb22e35.png)
