@@ -71,7 +71,7 @@ These noteskins are based on DDR's default noteskin style, but with the coloring
 
 Bright and Night are graphical overhauls of Peter Lawrence A.K.A. Megasphere's "Ionic" Noteskin. You can find his noteskins here: https://github.com/Pete-Lawrence/Peters-Noteskins
 
-The DDR variations (cel/dev cel/bright/night) are all edits of Schneider's Calssic DDR Noteskins. You can find the originals here: https://github.com/SchneiderAFX/Schneiders-Classic-DDR-Noteskins
+The DDR variations (cel/dev cel/bright/night) are all edits of Schneider's Classic DDR Noteskins. You can find the originals here: https://github.com/SchneiderAFX/Schneiders-Classic-DDR-Noteskins
 
 
 ---------- License ----------
