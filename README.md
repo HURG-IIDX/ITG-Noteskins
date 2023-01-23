@@ -65,4 +65,4 @@ The DDR variations (cel/dev cel/bright/night) are all edits of Schneider's Calss
 
 ---------- License ----------
 
-These noteskins are public domain and I really gon't care how theyre used/edited/shared whatsoever. I just hope you enjoy them!
+These noteskins are public domain and I really don't care how theyre used/edited/shared whatsoever. I just hope you enjoy them!
