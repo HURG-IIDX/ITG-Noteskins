@@ -4,10 +4,15 @@ Noteskins I have created/edited for use in SM5 versions, Outfox and ITGmania.
 Unless otherwise noted, all noteskins adhere to the ITG/"Cel" note timing colors
 
 4th - Red
+
 8th - Blue
+
 12/24/48th - Purple
+
 16th - Green
+
 32nd - Yellow
+
 64th - Turquoise
 
 ---------- Preview Videos ----------
