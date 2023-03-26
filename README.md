@@ -7,7 +7,7 @@ Unless otherwise noted, all noteskins adhere to the ITG/"Cel" note timing colors
 
 8th - Blue
 
-12/24/48th - Purple
+triplets (12th/24th etc.)- Purple
 
 16th - Green
 
@@ -22,6 +22,8 @@ Bright and Night: https://www.youtube.com/watch?v=2DklaG-c5Gk
 DDR Bright and DDR Night: https://www.youtube.com/watch?v=61TlnwmJTZs
 
 DDR Cel and DDR Dev Cel: https://www.youtube.com/watch?v=YhgzJ3ghRvU
+
+Sigil Light and Sigil Night: https://www.youtube.com/watch?v=b7RNTty0z78
 
 ---------- Installation ----------
 
@@ -81,12 +83,17 @@ These noteskins are based on DDR's default noteskin style, but with the coloring
 
 These noteskins are based on DDR's default noteskin style, but with the colorings of the default ITG skin Cel and the Dev Cel color scheme used in some other noteskins (sold colors with no gradient animation, but the same overall note color scheme as Cel). The holds/rolls are also greyscale with note matching caps to be more in line with ITG style noteskins.
 
+---------- Sigil Light and Sigil Night ----------
+
+I wanted to make a noteskin based on sigil/magic circle tap/hold explosions. The arrows feature a portion of the sigil that pulses on the arrow , when you hit the arrow, the sigil "completes" and the tap/hold explion is the full sigil. Holds and rolls are light gray with sigil moarkings on them and turn purple when active, which also matches the hold explosion color. Mines are a white rotating sigil with alternating pulsing center circle and inner triangle
+
 ---------- Credits ----------
 
 Bright and Night are graphical overhauls of Peter Lawrence A.K.A. Megasphere's "Ionic" Noteskin. You can find his noteskins here: https://github.com/Pete-Lawrence/Peters-Noteskins
 
 The DDR variations (cel/dev cel/bright/night) are all edits of Schneider's Classic DDR Noteskins. You can find the originals here: https://github.com/SchneiderAFX/Schneiders-Classic-DDR-Noteskins
 
+Sigil noteskins are using the default simply love noteskin "Enchantment" as a base just with all of the graphics files replaced. Slight changes were made to the code for mines (16 frame animation instead of 8) and hold explosions (uses "Decent" explsion for ending hold/roll explosions to keep purple color).
 
 ---------- License ----------
 
