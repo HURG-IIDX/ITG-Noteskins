@@ -7,7 +7,7 @@ Unless otherwise noted, all noteskins adhere to the ITG/"Cel" note timing colors
 
 8th - Blue
 
-triplets (12th/24th etc.)- Purple
+triplets (12th/24th etc.) - Purple
 
 16th - Green
 
@@ -85,7 +85,7 @@ These noteskins are based on DDR's default noteskin style, but with the coloring
 
 ---------- Sigil Light and Sigil Night ----------
 
-I wanted to make a noteskin based on sigil/magic circle tap/hold explosions. The arrows feature a portion of the sigil that pulses on the arrow , when you hit the arrow, the sigil "completes" and the tap/hold explion is the full sigil. Holds and rolls are light gray with sigil moarkings on them and turn purple when active, which also matches the hold explosion color. Mines are a white rotating sigil with alternating pulsing center circle and inner triangle
+I wanted to make a noteskin based on sigil/magic circle tap/hold explosions. The arrows feature a portion of the sigil that pulses on the arrow , when you hit the arrow, the sigil "completes" and the tap/hold explion is the full sigil. Holds and rolls are light gray with sigil markings on them and turn purple when active, which also matches the hold explosion color. Mines are a white rotating sigil with alternating pulsing center circle and inner triangle
 
 ---------- Credits ----------
 
